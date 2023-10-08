@@ -1,2 +1,2 @@
 # CV-Project-2
-Statistical analysis of cryptocurrency data using SQL
+This project is a statistical analysis of cryptocurrency data using SQL Server to demonstrate my skills. 
